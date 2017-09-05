@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GitPath</key>
+	<string>ssh://zenglm@10.3.17.200:29418/VCM3.0</string>
+	<key>Project Workspace Path</key>
+	<string>/Odin-YMS/Odin-YMS.xcworkspace</string>
+	<key>Bundle ID</key>
+	<string>com.yealink.VCMobile</string>
+	<key>Pgyer API Key</key>
+	<string>994b098bab5ddb641d0ec24bccb228cf</string>
+	<key>Pgyer User key</key>
+	<string>0d8a855b8068628d55503304ac113c16</string>
+	<key>Fir Token</key>
+	<string>36207dfac52ff6be1766099301638182</string>
+	<key>Branch Name</key>
+	<string>master</string>
+	<key>logicServer Path</key>
+	<string>/Odin-YMS/logicService</string>
+	<key>Project Info List</key>
+	<string>/Odin-YMS/Odin-YMS/Info.plist</string>
+	<key>ProjectName</key>
+	<string>Odin-YMS</string>
+	<key>ScriptPath</key>
+	<string></string>
+	<key>ProjectPath</key>
+	<string>/Users/zlm/Documents/VCM3.0AutoPackage</string>
+	<key>Upload URL Type</key>
+	<string>fir</string>
+	<key>Build Config Type</key>
+	<string>Debug</string>
+	<key>Version Number</key>
+	<string>1.254.34</string>
+	<key>Audio Version Number</key>
+	<string>1.0.1</string>
+	<key>H323 Version Number</key>
+	<string>1.0.1</string>
+	<key>Sip Version Number</key>
+	<string>1.0.1</string>
+	<key>Video Version Number</key>
+	<string>1.0.1</string>
+</dict>
+</plist>
